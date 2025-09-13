@@ -85,10 +85,6 @@ NEXT_PUBLIC_SITE_URL=http://localhost:3000
 
 MIT License © 2025 — FoodRescue Lite
 
-```
-
-Do you want me to also create a **GitHub shields-style badges section** (build status, license, tech stack badges) at the top so the README looks more professional?
-```
 
 
 
