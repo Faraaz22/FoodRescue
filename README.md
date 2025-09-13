@@ -1,5 +1,4 @@
 
-````markdown
 # FoodRescue Lite
 
 A lightweight full-stack platform to connect restaurants with shelters and rescue surplus food.  
