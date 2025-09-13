@@ -23,7 +23,7 @@ Built with **Next.js 15**, **MongoDB**, **Tailwind CSS v4**, **Nodemailer**, and
 ### 1. Clone repository
 ```bash
 git clone https://github.com/your-username/foodrescue-lite.git
-cd foodrescue-lite
+cd foodrescue
 ````
 
 ### 2. Install dependencies
